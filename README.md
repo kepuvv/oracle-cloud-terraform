@@ -8,6 +8,8 @@ This repo will deploy:
 - two **VM.Standard.E2.1.Micro** instances allowed by the Oracle free tier. (no need to have billing account)
 - one **VM.Standard.A1.Flex** with 24GB RAM, 4 OCPUs allowed by the Oracle free tier. 
 
+INFO: https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm
+
 All you need is an empty account.
 
 # Steps to deploy
